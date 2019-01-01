@@ -10,10 +10,11 @@ author: Timothy A. Model
 
 jobtitle: "Ph.D. Candidate, Political Science"
 address: "Indiana University, Bloomington, IN"
+#address: "1141 W. Olive Ave., Apt. 4, Sunnyvale, CA 94086"
 fontawesome: yes
 email: tmodel@indiana.edu
 # github: timothymodel
-phone: "(216) 780-3516"
+phone: "(...) ...-...."
 web: timothymodel.com
 updated: no
 
