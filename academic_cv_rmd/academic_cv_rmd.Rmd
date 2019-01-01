@@ -13,8 +13,8 @@ address: "Indiana University, Bloomington, IN"
 #address: "1141 W. Olive Ave., Apt. 4, Sunnyvale, CA 94086"
 fontawesome: yes
 email: tmodel@indiana.edu
-# github: timothymodel
-phone: "(...) ...-...."
+github: timothymodel
+#phone: "(...) ...-...."
 web: timothymodel.com
 updated: no
 
