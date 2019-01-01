@@ -1,0 +1,181 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:/Users/model/Box Sync/CV/svmiller_cv_template/svmiller_cv_template.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: Timothy A. Model
+
+jobtitle: "Ph.D. Candidate, Political Science"
+address: "Indiana University, Bloomington, IN"
+fontawesome: yes
+email: tmodel@indiana.edu
+# github: timothymodel
+phone: "(216) 780-3516"
+web: timothymodel.com
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: Maroon
+urlcolor: Maroon
+---
+
+# Education
+
+\vspace{-2mm}
+
+*Ph.D. in Political Science* \hfill expect. 2019 \break
+Indiana University, Bloomington, IN \hfill \break
+Fields: Comparative Politics \& Quantitative Methods
+
+*B.A. in Diplomacy/Global Politics \& Russian, East European, and Eurasian Studies* \hfill 2012 \break
+Miami University, Oxford, OH
+
+\vspace{-2mm}
+
+# Research
+
+\vspace{-2mm}
+
+## Book Project
+
+\vspace{-2mm}
+
+The Logic of Anti-Corruption Campaigns
+
+\vspace{-2mm}
+
+## Working Papers
+
+\vspace{-2mm}
+
+Corruption Intolerance and Protest Mobilization \hfill \break
+Unpacking Anti-Corruption Purges \hfill \break
+The Short and Long-Term Effects of Anti-Corruption Activity on FDI \hfill \break
+The Differential Effects of Anti-Corruption Strategies
+
+\vspace{-3mm}
+
+## Presentations
+
+\vspace{-2mm}
+
+American Political Science Association Annual Meeting \hfill 2018, 2017 \break
+Association for Slavic, East European, \& Eurasian Studies Convention \hfill 2018 \break
+Midwest Political Science Association Conference \hfill 2018 \break
+Workshop on Urban Activism \& the Development of Civil Society in Russia \hfill 2018 \break
+University of Wisconsin Russia Project Scholar's Workshop \hfill 2018 \break
+Moscow HSE-EACES Political Economy Workshop \hfill 2017 \break
+Ostrom Workshop Colloquium \hfill 2016 \break
+PSGSA Graduate Student Conference \hfill 2015 \break
+Havighurst Symposium on Putin's Russia \hfill 2011 \break
+
+\vspace{-7mm}
+
+## Other Publications
+
+\vspace{-2mm}
+
+Calibration and characterization of intracellular Asante Potassium Green probes, APG-2 and APG-4 (with Priyanka S. Rana, Brandon A. Gibbons, Alexey A. Vereninov, Valentina E. Yurinskaya, Robert J. Clements, and Michael A. Model). *Analytical Biochemistry*. 2018.
+
+\vspace{-1mm}
+
+# Fellowships, Grants, \& Awards
+
+\vspace{-2mm}
+
+## Research and Training
+
+\vspace{-2mm}
+
+Kennan Insitute Title VIII Scholarship \hfill 2018 \break
+Russian Studies Workshop Collaborative Research Fellowship \hfill 2018 \break
+John V. Gillespie Memorial Scholarship \hfill 2018 \break
+Russian Studies Workshop Graduate Research Fellowship \hfill 2018 \break
+Russian Studies Workshop Predissertation Networking Fellowship \hfill 2017 \break
+Ostrom Workshop Graduate Student Research Award \hfill 2016 \break
+Katherine Greenough Fellowship for Best Graduate Student Research Paper \hfill 2016 \break
+Foreign Language and Area Studies Fellowship \hfill 2014 \break
+Department of Political Science Fellowship \hfill 2014 \break
+Mabel LaDuke Lauder Fellowship \hfill 2013 \break
+Havighurst Travel Grant \hfill 2011 \break
+
+\vspace{-7mm}
+
+## Teaching
+
+\vspace{-2mm}
+
+Department of Political Science Selection for Lieber Memorial Teaching Award \hfill 2018 \break
+Outstanding Associate Instructor Award \hfill 2017 \break
+
+\vspace{-7mm}
+
+## Service
+
+\vspace{-2mm}
+
+Department of Political Science Graduate Leadership Award \hfill 2017 \break
+
+\vspace{-7mm}
+
+## Conference Travel
+
+\vspace{-2mm}
+
+Graduate and Professional Student Government Travel Award \hfill 2018 \break
+American Political Science Association Meeting Travel Grant \hfill 2018, 2017 \break
+Russian Studies Workshop ASEEES Travel Grant \hfill 2017, 2016 \break
+College of Arts and Sciences Conference Travel Award \hfill 2017 \break
+Department of Poltiical Science Conference Travel Award \hfill 2017 \break
+Center on American Politics Conference Travel Grant \hfill 2017 \break
+
+\vspace{-5mm}
+
+# Teaching Experience
+
+\vspace{-2mm}
+
+## Instructor of Record
+
+\vspace{-2mm}
+
+POLS-Y 200 Politics of Corruption. Indiana University. \hfill Spring 2017 \break
+POLS-Y 205 Analyzing Politics. Indiana University. \hfill Fall 2016 \break
+
+\vspace{-7mm}
+
+## Teaching Assistant
+
+\vspace{-2mm}
+
+POLS-Y 205 Analyzing Politics. Indiana University. \hfill Fall 2017, Fall \& Spring 2015, Fall 2014 \break
+POLS-Y 332 Russian Politics. Indiana University. \hfill Spring 2016 \break
+POLS-Y 105 Introduction to Political Theory. Indiana University. \hfill Spring 2016 \break
+POLS-Y 100 American Political Controversies. Indiana University. \hfill Fall 2013 \break
+
+\vspace{-7mm}
+
+## Teaching Training \& Certifications
+
+\vspace{-2mm}
+
+Pedagogy Training II. Indiana University. \hfill Fall 2016 \break
+Pedagogy Training I. Indiana University. \hfill Fall 2013--Spring 2014 \break
+
+\vspace{-5mm}
+
+# Skills \& Qualifications
+
+\vspace{-2mm}
+
+Programming: \textsf{R}, Python, Stata, JAGS \hfill \break
+Languages: English (native), Russian (professional), Spanish (elementary)
+
+\vspace{-1mm}
