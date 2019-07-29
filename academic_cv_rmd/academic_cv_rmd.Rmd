@@ -9,8 +9,8 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: Timothy A. Model
 
-jobtitle: "Ph.D. Candidate, Political Science"
-address: "Indiana University, Bloomington, IN"
+jobtitle: "Havighurst Fellow"
+address: "Miami University, Oxford, OH"
 #address: "1141 W. Olive Ave., Apt. 4, Sunnyvale, CA 94086"
 fontawesome: yes
 email: tmodel@indiana.edu
@@ -27,6 +27,13 @@ fontsize: 11pt
 linkcolor: Maroon
 urlcolor: Maroon
 ---
+
+# Employment
+
+*Havighurst Fellow* \hfill August 2019--Present \newline
+Havighurst Center for Russian and Post-Soviet Studies \hfill \newline
+Department of Global and Intercultural Studies \hfill \newline
+Miami University, Oxford, OH
 
 # Education
 
@@ -66,6 +73,13 @@ Havighurst Symposium on Putin's Russia \hfill 2011
 
 Calibration and characterization of intracellular Asante Potassium Green probes, APG-2 and APG-4 (with Priyanka S. Rana, Brandon A. Gibbons, Alexey A. Vereninov, Valentina E. Yurinskaya, Robert J. Clements, and Michael A. Model). *Analytical Biochemistry*. 2018.
 
+## Data Collection
+
+Anti-Corruption Campaign Event Dataset \newline
+Moscow Housing Development Survey \& Focus Group Study \newline
+Orange Revolution Legacies Survey \newline
+Executive Approval Project 
+
 # Fellowships, Grants, \& Awards
 
 ## Research and Training
@@ -93,7 +107,6 @@ Department of Political Science Graduate Leadership Award \hfill 2017
 
 ## Conference Travel
 
-\vspace{-2mm}
 HSE-EACES Summer Workshop Travel Grant \hfill 2019 \newline
 Graduate and Professional Student Government Travel Award \hfill 2018 \newline
 American Political Science Association Meeting Travel Grant \hfill 2018, 2017 \newline
@@ -106,8 +119,9 @@ Center on American Politics Conference Travel Grant \hfill 2017
 
 ## Instructor of Record
 
+ITS 201 Introduction to International Studies. Miami University. \hfill Fall 2019 \newline
 POLS-Y 200 Politics of Corruption. Indiana University. \hfill Spring 2017 \newline
-POLS-Y 205 Analyzing Politics. Indiana University. \hfill Fall 2016
+POLS-Y 205 Analyzing Politics (Research Methods). Indiana University. \hfill Fall 2016
 
 ## Teaching Assistant
 
